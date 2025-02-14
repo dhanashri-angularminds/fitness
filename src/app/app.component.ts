@@ -9,4 +9,9 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'fitnessApp';
+  user = {
+    name: "Dhanashri Bhosale",
+    education: "MCA",
+    company: "Angularminds pvt ltd"
+  }
 }
